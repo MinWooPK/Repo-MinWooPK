@@ -40,7 +40,7 @@ const Skill = () => {
               <BarSkills title={"LINT"} width={42} />
               <BarSkills title={"JavaScript"} width={80} />
               <BarSkills title={"TypeScript"} width={70} />
-              <BarSkills title={"Angular"} width={15} />
+              <BarSkills title={"Angular"} width={13} />
               <BarSkills title={"REACT"} width={75} />
             </BarActive>
           )}
