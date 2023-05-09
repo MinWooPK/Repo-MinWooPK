@@ -35,10 +35,12 @@ const Skill = () => {
               <BarSkills title={"CSS"} width={80} />
               <BarSkills title={"SASS"} width={70} />
               <BarSkills title={"TAILWIND"} width={80} />
+              <BarSkills title={"Boostrap"} width={23} />
               <BarSkills title={"STYLED-COMPONENT"} width={75} />
               <BarSkills title={"LINT"} width={42} />
-              <BarSkills title={"JS"} width={80} />
-              <BarSkills title={"TSX"} width={70} />
+              <BarSkills title={"JavaScript"} width={80} />
+              <BarSkills title={"TypeScript"} width={70} />
+              <BarSkills title={"Angular"} width={11} />
               <BarSkills title={"REACT"} width={75} />
             </BarActive>
           )}
