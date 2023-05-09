@@ -32,7 +32,7 @@ import { useEffect, useRef, useState } from "react";
 import React from "react";
 
 const CV =
-  "https://drive.google.com/file/d/1-yH5075m-SbJfaN3Ak71KdMjEgJE3THR/view?usp=share_link";
+  "https://drive.google.com/file/d/1lMhIVI1fEHbNstulgDmX9qG3fjBrVBi8/view?usp=share_link";
 
 const images = [MinWoo, image1, image2, image3, image4];
 
