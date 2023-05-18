@@ -17,10 +17,18 @@ import Pokemon from "../../assets/img/Pokemon.png";
 import ToDo from "../../assets/img/ToDo.png";
 import Calculadora from "../../assets/img/Calculadora.png";
 import Movie from "../../assets/img/Movie.png";
+import Ecommerce from "../../assets/img/Ecommerce.png";
+
 import PassWord from "../../assets/img/PassWord.png";
 import { useEffect, useState } from "react";
 
 const worksData = [
+  {
+    title: "Ecommerce-Cafe Con Altura",
+    info: "Un Ecommerce ficticio de café, en la que nos da una breve explicación de la empresa y sus localizaciones.  Con posibilidad de compra online.",
+    href: "https://angular-ecommerce-coffe.vercel.app/",
+    img: Ecommerce,
+  },
   {
     title: "ETPAY",
     info: "En este proyecto, se hizo la sección de Tarifa y Planes, y la implementación de los cambios , según la región del cliente y de su tarifa actual, así como las nuevas secciones de la personalización a nivel de usuario.",
